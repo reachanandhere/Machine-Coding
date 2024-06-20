@@ -5,9 +5,11 @@
 
 
 # Functional Requirement
-Create an empty box where array value is 1.
-User can select a box. Upon selection the box background color should change to #0bcc59.
-Once all boxes are selected then the boxes should auto-deselect based on the order of selection.
-Deselection should be non-interruptible as in once started, we can't stop it.
-During de-selection, user should not be able to select a new box as in disable any box interaction.
+1. Create an empty box where array value is 1.
+2. User can select a box. Upon selection the box background color should change to #0bcc59.
+3. Once all boxes are selected then the boxes should auto-deselect based on the order of selection.
+4. Deselection should be non-interruptible as in once started, we can't stop it.
+5. During de-selection, user should not be able to select a new box as in disable any box interaction.
+
+
 
